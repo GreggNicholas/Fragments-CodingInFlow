@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentCodingInFlow</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="you_re_gonna_replace_maintextview">you\'re the new textview around these parts now!</string>
+</resources>
